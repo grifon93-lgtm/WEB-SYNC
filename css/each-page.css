@@ -838,7 +838,7 @@ main {
 .contact .box-wrapper {
     position: static;
 //    overflow: hidden;
-    background-image: linear-gradient(to right, rgba(0, 0, 55, 0.1), rgba(0, 0, 72, 0.3)), url("../images/素材候補/写真/オフィス看板.jpg");
+    background-image: linear-gradient(to right, rgba(0, 0, 55, 0.1), rgba(0, 0, 72, 0.3)), url("../images/office_board.jpg");
     background-size: 120%;
 //    background-position: center;
     background-position: 10% 52%;
@@ -1002,7 +1002,7 @@ main {
     }
     #wrapper_index .l-section-box .contact .box-wrapper {
         position: static;
-        background-image: url("../images/素材候補/contact.jpg");
+        background-image: url("../images/contact.jpg");
         background-size: cover;
     }
     #wrapper_index .l-section-box .contact .box-wrapper .caption-box {
@@ -1089,10 +1089,10 @@ main {
         display: none;
     }
     #wrapper_index .caption-box.sp .service-list li ul .mdm {
-        background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.3)), url("../images/素材候補/mdm_mockup.jpg"), linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
+        background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.3)), url("../images/mdm_mockup.jpg"), linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
     }
     #wrapper_index .caption-box.sp .service-list li ul .consulting {
-        background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.6)), url("../images/素材候補/consulting-02.jpg"), linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
+        background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.6)), url("../images/consulting-02.jpg"), linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
     }
 
     .caption-box.sp .service-list li ul li .caption {
@@ -1200,18 +1200,18 @@ main {
         color: #ccc;
     } 
     .company .caption-box ul .about_company {
-        background-image:  linear-gradient(45deg, rgba(255, 255, 255, 1) 40%, rgba(255,  255, 255, 0.2)), url("../images/素材候補/company.jpg");
+        background-image:  linear-gradient(45deg, rgba(255, 255, 255, 1) 40%, rgba(255,  255, 255, 0.2)), url("../images/company.jpg");
     }
     .company .caption-box ul .about_ceo {
-        background-image:  linear-gradient(45deg, rgba(255, 255, 255, 0.2) , rgba(255,  255, 255, 1) 60%), url("../images/素材候補/ceo.png");
+        background-image:  linear-gradient(45deg, rgba(255, 255, 255, 0.2) , rgba(255,  255, 255, 1) 60%), url("../images/ceo.png");
         background-position: center;
     }
     .company .caption-box ul .history {
-        background-image:  linear-gradient(45deg, rgba(255, 255, 255, 1) 40%, rgba(255,  255, 255, 0.2)), url("../images/素材候補/写真/オフィス看板.jpg");
+        background-image:  linear-gradient(45deg, rgba(255, 255, 255, 1) 40%, rgba(255,  255, 255, 0.2)), url("../images/office_board.jpg");
         background-position: center;
     }
     .company .caption-box ul .company_report {
-        background-image:  linear-gradient(45deg, rgba(255, 255, 255, 0.2) , rgba(255,  255, 255, 1) 60%), url("../images/素材候補/report.jpg");
+        background-image:  linear-gradient(45deg, rgba(255, 255, 255, 0.2) , rgba(255,  255, 255, 1) 60%), url("../images/report.jpg");
     }
     #wrapper_index .l-section-box .company .image-box {
         display: none;
@@ -1219,16 +1219,16 @@ main {
 
     /*for-sp-is-active*/
     .company .caption-box ul .about_company.for-sp-is-active {
-        background-image:  linear-gradient(to right, rgba(9, 49, 143, 0.5) 40%, rgba(0,  0, 0, 0.5)), url("../images/素材候補/company.jpg");
+        background-image:  linear-gradient(to right, rgba(9, 49, 143, 0.5) 40%, rgba(0,  0, 0, 0.5)), url("../images/company.jpg");
     }
     .company .caption-box ul .about_ceo.for-sp-is-active {
-        background-image:  linear-gradient(to right, rgba(9, 49, 143, 0.5) 40%, rgba(0,  0, 0, 0.5)), url("../images/素材候補/ceo.png");
+        background-image:  linear-gradient(to right, rgba(9, 49, 143, 0.5) 40%, rgba(0,  0, 0, 0.5)), url("../images/ceo.png");
     }
     .company .caption-box ul .history.for-sp-is-active {
-        background-image:  linear-gradient(to right, rgba(9, 49, 143, 0.5) 40%, rgba(0,  0, 0, 0.5)), url("../images/素材候補/写真/オフィス看板.jpg");
+        background-image:  linear-gradient(to right, rgba(9, 49, 143, 0.5) 40%, rgba(0,  0, 0, 0.5)), url("../images/office_board.jpg");
     }
     .company .caption-box ul .company_report.for-sp-is-active {
-        background-image:  linear-gradient(to right, rgba(9, 49, 143, 0.5) 40%, rgba(0,  0, 0, 0.5)), url("../images/素材候補/report.jpg");
+        background-image:  linear-gradient(to right, rgba(9, 49, 143, 0.5) 40%, rgba(0,  0, 0, 0.5)), url("../images/report.jpg");
     }
 
 
@@ -2106,7 +2106,7 @@ main {
     height: 30vh;
     display: flex;
     align-items: center;
-    background-image: url(../images/素材候補/写真/オフィス看板.jpg);
+    background-image: url("../images/office_board.jpg");
     background-size: cover;
     background-position: center;
 }
